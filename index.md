@@ -1,2 +1,2 @@
 # Hello, WOrld 🐨!
-[PROJECTS](https://georgegoldman.github.io/profile)
+[PROFILE](https://georgegoldman.github.io/profile)
