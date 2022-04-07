@@ -1,6 +1,6 @@
-layout: page
-title: "projetcs"
-permalink: /template/projects/
+domain: georgegoldman.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://georgegoldman.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /georgegoldman.github.io/      # place folder name if the site is served in a subfolder
 theme: jekyll-theme-minimal
 title: GEORGEGOLDMAN ONYEDIKACHI JOHN
 description: Welcome to my official web page, this page contains primarily all that has to do with the work and flair of GEORGEGOLDMAN ONYEDIKACHI JOHN.
