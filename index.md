@@ -1,9 +1,9 @@
-## PROFILE <hr />
+## PROFILE
 Am a mathematician with three years intermediate skill in computer programming. I am fond of solving problems using mathematical methods implementing it with a computerized concept so I have built so many projects which are available on GitHub and GitLab @georgegoldman, I enjoy working in an environment where I learn new technologies and techniques to solve problems.
 
 <a href="https://www.github.com/georgegoldman" target="_blank" style="margin-right: 10%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/github.svg" width="25" height="24"></a>   <a href="https://www.linkedin.com/in/georgegoldman-john-187428b9/" target="_blank" style="margin-right: 10%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/linkedin.svg" width="25" height="24"></a>   <a href="https://twitter.com/mrgeorgegoldman" target="_blank" style="margin-right: 10%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/twitter.svg" width="25" height="24"></a> <a href="https://www.instagram.com/mrgeorgegoldman/" target="_blank" style="margin-right: 10%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/instagram.svg" width="25" height="24"></a>
 
-## PROJECTS <hr />
+## PROJECTS
 ### **Rss Picker**
 _May 15_, 2021Technologies: php, blade, git, shell
 allows users and applications to access updates to websites in a standardized, computer-readable
