@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/ukony/image/upload/v1649334466/georgegoldman/IMG_20210525_135031_nncteq.jpg" width="40" height="40">
+<img src="https://res.cloudinary.com/ukony/image/upload/v1649334466/georgegoldman/IMG_20210525_135031_nncteq.jpg" height="400">
 
 <hr />
 
