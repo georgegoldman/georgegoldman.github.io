@@ -3,4 +3,4 @@
 [PROFILE](https://georgegoldman.github.io/profile) | [PROJECTS](https://georgegoldman.github.io/projects)
 
 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/github.svg" width="25" height="24">](https://github.com/georgegoldman/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/github.svg" width="25" height="24">](https://github.com/georgegoldman/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/linkedin.svg" width="25" height="24">](https://www.linkedin.com/in/georgegoldman-onyedikachi-john-187428b9/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/twitter.svg" width="25" height="24">](https://twitter.com/mrgeorgegoldman)
