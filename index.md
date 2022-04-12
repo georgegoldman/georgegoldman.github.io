@@ -5,6 +5,12 @@ Am a mathematician with more than three years intermediate skill in computer pro
 
 <hr />
 
+## STACK
+
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/python.svg" width="25" height="24"></a> 
+
+<hr />
+
 ## PROJECTS
 ### **Rss Picker**
 _May 15_, 2021Technologies: php, blade, git, shell
