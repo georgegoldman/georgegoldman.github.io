@@ -36,7 +36,7 @@ Decentralised Network.
 Github repo: <a href="https://github.com/georgegoldman/project-9" target="_blank">project-9</a>
 
 ### **Project 8**
-_Aug 12, 2021_
+_January 03, 2022_
 Technologies: Typescript, Angular, MySql, Java, Sping boot,  shell, bash, git, mako
 Bills Payment Application.
 Github repo: <a href="https://github.com/georgegoldman/project-8" target="_blank">project-8</a>
