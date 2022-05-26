@@ -1,5 +1,5 @@
 ## PROFILE
-Hi, my name is Georgegoldman Onyedikachi John. I'm a software engineer with more than 4 years experience in backend development and 2 years experience in frontend development, but also a mathematician by academic assertion. I live in Lagos, Nigeria. I am currently a backend software engineer at Genial Sata. I love sharing knowledge with others. Besides, I also play bass guitar. Thanks for stopping by.
+Hi, my name is Georgegoldman Onyedikachi John. I'm a software engineer with more than 4 years experience in backend development and 2 years experience in frontend development, but also a mathematician by academic assertion. I live in Lagos, Nigeria. I am currently a backend software engineer at Genial Sata. I love sharing knowledge with others. Besides, I also play bass guitar. I have focused on building system software for the past five years, especially APIs and Algorithms to support varieties of devices. I have built websocket application during my internship on my early coding career, worked on ingress systems, and am now building a decentralized network. For the future, I am constantly seeking opportunities to build things to the interest of others because it excite me, and impact people. Thanks for stopping by.
 
 <a href="mailto:georgegoldmanjohn.o@gmail.com" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/regular/envelope.svg" width="25" height="24"></a> <a href="https://www.github.com/georgegoldman" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/github.svg" width="25" height="24"></a> <a href="https://www.linkedin.com/in/georgegoldman-john-187428b9/" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/linkedin.svg" width="25" height="24"></a>   <a href="https://twitter.com/mrgeorgegoldman" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/twitter.svg" width="25" height="24"></a> <a href="https://www.instagram.com/mrgeorgegoldman/" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/instagram.svg" width="25" height="24"></a>
 
@@ -29,6 +29,18 @@ voice calling options are relatively cheap when compared with foreign calling op
 Internet traffic.
 Github repo: <a href="git@github.com:georgegoldman/lifeat" target="_blank">lifeat</a>
 
+### **Project 9**
+_Aug 12, 2021_
+Technologies: nodejs,Typescript, Angular, Postgresql, Mongo Db, shell, bash, git, mako
+Decentralised Network.
+Github repo: <a href="https://github.com/georgegoldman/project-9" target="_blank">project-9</a>
+
+### **Project 8**
+_Aug 12, 2021_
+Technologies: Typescript, Angular, MySql, Java, Sping boot,  shell, bash, git, mako
+Bills Payment Application.
+Github repo: <a href="https://github.com/georgegoldman/project-8" target="_blank">project-8</a>
+
 ### **Restify Project**
 _Sep 6, 2021_
 Back end API endpoint.
@@ -42,12 +54,6 @@ Github repo: git@github.com:georgegoldman/project_restify.git
 Technologies: Java, Postgresql, git
 Back end API endpoint.
 Github repo: <a href="https://github.com/georgegoldman/spring-project" target="_blank">spring project</a>
-
-### **Miraboi**
-_Feb 2, 2022_
-Technologies: javascript, html, git, shell
-Celebrity website.
-Github repo: <a href="https://github.com/georgegoldman/miraboi_app" target="_blank">miraboi website</a>
 
 ### **Android Material Designs**
 _Feb 12, 2022_
