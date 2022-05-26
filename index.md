@@ -8,6 +8,7 @@ Hi, my name is Georgegoldman Onyedikachi John. I'm a software engineer with more
 ## STACK
 
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/python.svg" width="25" height="24"></a> <a href="https://en.wikipedia.org/wiki/PHP" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/php.svg" width="25" height="24"></a> <a href="https://en.wikipedia.org/wiki/Node.js" target="_blank" style="margin-right" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/js.svg" width="25" height="24"></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" style="margin-right" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/java.svg" width="25" height="24"></a>
 <hr />
 
 ## PROJECTS
