@@ -62,7 +62,7 @@ applications without reimplementing the processing and rendering contr
 Github repo: <a href="https://github.com/georgegoldman/andriodmaterial101" target="_blank">android material designs</a>
 
 <hr/>
-##CONTACT
+### **CONTACT**
 
 <a href="mailto:georgegoldmanjohn.o@gmail.com" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/regular/envelope.svg" width="25" height="24"></a>  <a href="https://www.linkedin.com/in/georgegoldman-john-187428b9/" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/linkedin.svg" width="25" height="24"></a>   <a href="https://twitter.com/mrgeorgegoldman" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/twitter.svg" width="25" height="24"></a> <a href="https://www.instagram.com/mrgeorgegoldman/" target="_blank" style="margin-right: 5%;"><img src="https://raw.githubusercontent.com/georgegoldman/Font-Awesome/28e297f07af26f148c15e6cbbd12cea3027371d3/svgs/brands/instagram.svg" width="25" height="24"></a>
 
