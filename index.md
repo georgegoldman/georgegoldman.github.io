@@ -9,10 +9,6 @@ Hi, my name is GEORGEGOLDMAN ONYEDIKACHI JOHN. I'm an intermediate software engi
 <hr />
 
 ## PROJECTS
-### **Rss Picker**
-_May 15_, 2021Technologies: php(laravel), blade, git, shell
-This platform allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitors sites for new content, removing the need for the user to manually check them. News aggregators (or “RSS readers”) can be built into a browser, installed on a desktop computer, or installed on a mobile device.
-Github repo: <a href="https://git@github.com/georgegoldman/rsspicker" target="_blank">Rss Picker</a>
 
 ### **Project 9**
 _Aug 12, 2022_
@@ -53,6 +49,11 @@ This will enable users to communicate with people staying abroad, uninterruptedl
 voice calling options are relatively cheap when compared with foreign calling options regarding
 Internet traffic.
 Github repo: <a href="git@github.com:georgegoldman/lifeat" target="_blank">lifeat</a>
+
+### **Rss Picker**
+_May 15_, 2020 Technologies: php(laravel), blade, git, shell
+This platform allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitors sites for new content, removing the need for the user to manually check them. News aggregators (or “RSS readers”) can be built into a browser, installed on a desktop computer, or installed on a mobile device.
+Github repo: <a href="https://git@github.com/georgegoldman/rsspicker" target="_blank">Rss Picker</a>
 
 <hr/>
 
