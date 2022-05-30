@@ -10,38 +10,27 @@ Hi, my name is GEORGEGOLDMAN ONYEDIKACHI JOHN. I'm an intermediate software engi
 
 ## PROJECTS
 ### **Rss Picker**
-_May 15_, 2021Technologies: php, blade, git, shell
-allows users and applications to access updates to websites in a standardized, computer-readable
-format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single
-news aggregator, which constantly monitors sites for new content, removing the need for the user to
-manually check them. News aggregators (or "RSS readers") can be built into a browser, installed on a
-desktop computer, or installed on a mobile device.
+_May 15_, 2021Technologies: php(laravel), blade, git, shell
+This platform allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitors sites for new content, removing the need for the user to manually check them. News aggregators (or “RSS readers”) can be built into a browser, installed on a desktop computer, or installed on a mobile device.
 Github repo: <a href="https://git@github.com/georgegoldman/rsspicker" target="_blank">Rss Picker</a>
 
-### **Video chat app**
-_Aug 12, 2021_
-Technologies: python, Postgresql, git, mako
-This will enable users to communicate with people staying abroad, uninterruptedly. Also, in-app
-voice calling options are relatively cheap when compared with foreign calling options regarding
-Internet traffic.
-Github repo: <a href="git@github.com:georgegoldman/lifeat" target="_blank">lifeat</a>
-
 ### **Project 9**
-_Aug 12, 2021_
-Technologies: nodejs,Typescript, Angular, Postgresql, Mongo Db, shell, bash, git, mako
-Decentralised Network.
+_Aug 12, 2022_
+Technologies: nodejs(restify), Java(Spring boot), Typescript(Angular), Postgresql, Mongo Db, shell, bash, git, mako
+Decentralised Financial Network.
 Github repo: <a href="https://github.com/georgegoldman/project-9" target="_blank">project-9</a>
 
 ### **Project 8**
-_January 03, 2022_
-Technologies: Typescript, Angular, MySql, Java, Sping boot,  shell, bash, git, mako
+_April 01, 2022_
+Technologies: nodejs(express), Typescript(Angular), MySql,  shell, bash, git, mako
 Bills Payment Application.
 Github repo: <a href="https://github.com/georgegoldman/project-8" target="_blank">project-8</a>
 
-### **Restify Project**
-_Sep 6, 2021_
-Back end API endpoint.
-Github repo: <a href="https://github.com/georgegoldman/project_restify/" target="_blank">restify project</a>
+### **Android Material Designs**
+_Feb 12, 2022_
+Technologies: java, xml, git, shell
+This application allows the development of mod interfaces that maximize the available space for the display and optimize the availability of controls for the current task. The modular nature of the user interface also permits the developer and user to make changes to suit new data types and new applications without reimplementing the processing and rendering control.
+Github repo: <a href="https://github.com/georgegoldman/andriodmaterial101" target="_blank">android material designs</a>
 
 ### **Spring project**
 _Oct2, 2021_
@@ -52,14 +41,18 @@ Technologies: Java, Postgresql, git
 Back end API endpoint.
 Github repo: <a href="https://github.com/georgegoldman/spring-project" target="_blank">spring project</a>
 
-### **Android Material Designs**
-_Feb 12, 2022_
-Technologies: java, xml, git, shell
-This allows the development of modal interfaces that maximize the available space for the display
-and optimize the availability of controls for the current task. The modular nature of the user
-interface also permits the developer and user to make changes to suit new data types and new
-applications without reimplementing the processing and rendering contr
-Github repo: <a href="https://github.com/georgegoldman/andriodmaterial101" target="_blank">android material designs</a>
+### **Restify Project**
+_Sep 6, 2021_
+Back end API endpoint.
+Github repo: <a href="https://github.com/georgegoldman/project_restify/" target="_blank">restify project</a>
+
+### **Video chat app**
+_Jan 12, 2021_
+Technologies: python, Postgresql, git, mako
+This will enable users to communicate with people staying abroad, uninterruptedly. Also, in-app
+voice calling options are relatively cheap when compared with foreign calling options regarding
+Internet traffic.
+Github repo: <a href="git@github.com:georgegoldman/lifeat" target="_blank">lifeat</a>
 
 <hr/>
 
