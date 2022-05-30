@@ -24,27 +24,27 @@ Github repo: <a href="https://github.com/georgegoldman/project-8" target="_blank
 
 ### **Android Material Designs**
 _Feb 12, 2022_
-Technologies: java, xml, git, shell
+Technologies: java(android), xml, git, shell
 This application allows the development of mod interfaces that maximize the available space for the display and optimize the availability of controls for the current task. The modular nature of the user interface also permits the developer and user to make changes to suit new data types and new applications without reimplementing the processing and rendering control.
 Github repo: <a href="https://github.com/georgegoldman/andriodmaterial101" target="_blank">android material designs</a>
 
 ### **Spring project**
 _Oct2, 2021_
-Technologies: Node js, shell, git, mongodb
+Technologies: Java(spring boot), Postgresql, git
 Back end API endpoint.
 Github repo: git@github.com:georgegoldman/project_restify.git
-Technologies: Java, Postgresql, git
 Back end API endpoint.
 Github repo: <a href="https://github.com/georgegoldman/spring-project" target="_blank">spring project</a>
 
 ### **Restify Project**
 _Sep 6, 2021_
-Back end API endpoint.
+Technologies: Nodejs(restify), shell, git, mongodb
+Back end API endpoints.
 Github repo: <a href="https://github.com/georgegoldman/project_restify/" target="_blank">restify project</a>
 
 ### **Video chat app**
 _Jan 12, 2021_
-Technologies: python, Postgresql, git, mako
+Technologies: python(flask), Postgresql, git, mako
 This will enable users to communicate with people staying abroad, uninterruptedly. Also, in-app
 voice calling options are relatively cheap when compared with foreign calling options regarding
 Internet traffic.
